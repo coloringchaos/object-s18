@@ -12,11 +12,11 @@ description: Course information for Object, Spring 2018.
 **Office Hours:**&nbsp; Tuesdays 2:30-4:30pm or [by appointment]()<br>
 **Office:**&nbsp; ATLS 231C
 
-#### Tuesday & Thursday 12:30-2:20pm <br>Section 010/011
+#### Tuesday & Thursday 3:30-5:20pm <br>Section 020/021
 **Instructor:**&nbsp; Melissa Felderman<br>
 **Email:**&nbsp; ...<br>
-**Office Hours:**&nbsp; ...<br>
-**Office:**&nbsp; ...
+**Office Hours:**&nbsp; 5:30-7, email if you plan to come<br>
+**Office:**&nbsp; ATLS 231
 
 <br>
 <hr>
