@@ -32,6 +32,7 @@ Introductions, Expectations, Fantasy Device
 <span class="ass">**Thursday, January 18th**</span> <br>
 Basic Electronics, Identifying Components, Paper Circuits, Documenting & Photographing Hardware
 
+<span class="fornext">For Next Class:</span>
 
 + Read pages 1-40 of *There are No Electrons: Electronics for Earthlings* (access pdf through Canvas)
 + Watch Schematics Videos - [Intro](https://vimeo.com/90280008), [Basic Symbols](https://vimeo.com/90286527), and [Review](https://vimeo.com/90534363)
@@ -60,6 +61,9 @@ BTU Orientation, Series and Parallel Circuits, Switches, Electricity, Ohm’s La
 <span class="ass">**Thursday, January 25th**</span> <br>
 BTU Lab Orientation, Interactivity, Feedback Loops, Design Discussion
 
+<span class="fornext">For Next Class:</span>
+
++ Complete Lab 1
 
 <br>
 <hr>
@@ -68,6 +72,13 @@ BTU Lab Orientation, Interactivity, Feedback Loops, Design Discussion
 <span class="ass">**Tuesday, January 30th**</span> <br>
 Intro to Microcontrollers, Arduino IDE, Digital Input / Output
 <br><span class="lab">***[Lab 1](/object-s18/lab1)***</span>
+
+<span class="fornext">For Next Class:</span>
+
++ Read [Microcontrollers: The Basics](https://itp.nyu.edu/physcomp/lessons/microcontrollers/microcontrollers-the-basics/)
++ Read [Microcontroller Pin Functions](https://itp.nyu.edu/physcomp/lessons/microcontrollers/microcontroller-pin-functions/)
++ Read [Digital Input and Output](https://itp.nyu.edu/physcomp/lessons/microcontrollers/digital-input-output/)
+
 
 <br>
 
