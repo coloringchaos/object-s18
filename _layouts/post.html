@@ -21,9 +21,9 @@ layout: default
 
   <h2>{%if page.header %}{{ page.header }}{% else %}{{ page.title }}{% endif %}</h2>
 	<div class="by-line parent">
-    <time datetime="{{ page.date | date_to_xmlschema }}"> <i>{{ page.date | date_to_string }}</i> </time>
-    &nbsp;&nbsp; &middot; &nbsp;&nbsp;
-    <span><i>{{ page.duration }}</i> </span>
+    <!-- <time datetime="{{ page.date | date_to_xmlschema }}"> <i>{{ page.date | date_to_string }}</i> </time> -->
+    <!-- &nbsp;&nbsp; &middot; &nbsp;&nbsp; -->
+    <span class="duration"><i>{{ page.duration }}</i> </span>
   </div>
 	<div class="content">
 
@@ -32,8 +32,8 @@ layout: default
   </div>
 
   <!-- Facebook Comments HTML -->
-  <div class="m-t-6e">
+  <!-- <div class="m-t-6e">
     <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-width="900" data-numposts="5"></div>
-  </div>
+  </div> -->
 
 </article>
