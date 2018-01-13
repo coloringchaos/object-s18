@@ -66,13 +66,13 @@ BTU Lab Orientation, Interactivity, Feedback Loops, Design Discussion
 
 ## Week 3
 <span class="ass">**Tuesday, January 30th**</span> <br>
-Intro to Microcontrollers, Digital Input / Output
+Intro to Microcontrollers, Arduino IDE, Digital Input / Output
 <br><span class="lab">***[Lab 1](/object-s18/lab1)***</span>
 
 <br>
 
 <span class="ass">**Thursday, February 1st**</span> <br>
-Microcontrollers, Enclosures
+Microcontrollers, Programming for Arduino, Enclosures
 
 <br>
 <hr>
