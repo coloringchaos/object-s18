@@ -14,17 +14,33 @@ h2{
 .lab{
   background-color:violet;
   padding:5px 8px;
+  a{
+    border:none;
+    font-weight: 600;
+  }
 }
 
 .test{
   background-color:yellow;
   padding:5px 8px;
+  a{
+    border:none;
+    font-weight: 600;
+  }
 }
 .proj{
   background-color:skyblue;
   padding:5px 8px;
+  a{
+    border:none;
+    font-weight: 600;
+  }
 }
 .duration{
   font-size:1.3em;
   margin-bottom: 2em;
+}
+.fornext{
+  margin:2.3em;
+  margin-bottom:-2em;
 }

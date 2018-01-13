@@ -19,15 +19,24 @@ This page has a breakdown of the general content that we will cover in each clas
 <span class="ass">**Tuesday, January 16th**</span> <br>
 Introductions, Expectations, Fantasy Device
 
-<!-- <span class="fornext">For Next Class:</span>
+<span class="fornext">For Next Class:</span>
 
-+ something
-+ another assignment -->
++ Set up your Documentation Journal and write a brief post about what you made during the class activity.
++ Submit a link to your blog  [here](https://docs.google.com/forms/d/e/1FAIpQLSdkvOkhTp1FimNm-o8jbxRfl2gip6AkCOmc4AGznV8-oRE06w/viewform?usp=sf_link).
++ Complete the [Intro Survey](https://docs.google.com/forms/d/e/1FAIpQLScte3sp6Mr1dk5I62C4sSJwy6vG3NQRRXG5okMiqE-4BpJlvQ/viewform?usp=sf_link)
++ Read [How to use a Breadboard](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard), [What is Electricity](https://learn.sparkfun.com/tutorials/what-is-electricity), and [Electricity: The Basics](https://itp.nyu.edu/physcomp/lessons/electronics/electricity-the-basics/)
+
 
 <br>
 
 <span class="ass">**Thursday, January 18rd**</span> <br>
-Basic Electronics, Identifying Components, Documentation & Photographing Hardware
+Basic Electronics, Identifying Components, Paper Circuits, Documenting & Photographing Hardware
+
+
+
++ Watch Schematics Videos - [Intro](https://vimeo.com/90280008), [Basic Symbols](https://vimeo.com/90286527), and [Review](https://vimeo.com/90534363)
++ Read pages 1-40 of *There are No Electrons: Electronics for Earthlings* (access pdf through D2L)
++ Watch [Ohm's Law Part 1](https://vimeo.com/album/2801639/video/76442432) and [Part 2](https://vimeo.com/album/2801639/video/76442431)
 
 <br>
 <hr>
@@ -36,6 +45,15 @@ Basic Electronics, Identifying Components, Documentation & Photographing Hardwar
 ## Week 2
 <span class="ass">**Tuesday, January 23rd**</span> <br>
 BTU Orientation, Series and Parallel Circuits, Switches, Electricity, Ohm’s Law, Using a Multimeter
+
+<span class="fornext">For Next Class:</span>
+
++ Submit your [BTU Lab Membership Information](https://docs.google.com/forms/d/e/1FAIpQLSeIiB_mNSUKWU5yj4QyRlgOcB7TDBcx94uzNbGgb3J-fAJZeA/viewform?usp=sf_link)
++ Read Chapter 1 of [The Design of Everyday Things](http://object.ariellehein.com/readings/DesignOfEveryDayThings.pdf) by Don Norman
++ Read Tom Igoe on [Physical Computing's Greatest Hits and Misses](http://www.tigoe.net/blog/category/physicalcomputing/176/)
++ Read Chris Crawford's [What Exactly Is Interactivity](http://object.ariellehein.com/readings/theartofinteractivedesign-ch1.pdf)
++ *Optional* Watch [3 Ways Good Design Makes You Happy](https://www.ted.com/talks/don_norman_on_design_and_emotion?language=en)
+
 
 <br>
 
@@ -75,7 +93,7 @@ Laser Cutting, Work Time
 ## Week 5
 <span class="ass">**Tuesday, February 13th**</span><br>
 Project 1 Discussion, Brainstorming Activity, Blog Critique
-<br><span class="lab">***Lab 2***</span>
+<br><span class="lab">***[Lab 2](/object-s18/lab2)***</span>
 
 <br>
 
@@ -143,7 +161,7 @@ Serial Communication with P5JS
 <br>
 
 <span class="ass">**Thursday, March 22nd**</span> <br>
-Design Discussion, Project 2 Workshopping<br>
+Open Source Hardware, Design Discussion, Project 2 Workshopping<br>
 <span class="lab">***Lab 4***</span>
 
 <br>

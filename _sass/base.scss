@@ -49,6 +49,7 @@ body {
 a {
 	color: $text-color;
 	text-decoration: none;
+  border-bottom: 1px solid black;
 	font-weight: 400;
 	&:hover,
 	&:focus {

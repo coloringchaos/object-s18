@@ -33,6 +33,9 @@ h2 {
 	font-weight: 400;
 	line-height: 1.8em;
 	padding: 1.5em 0 0 0; /* 12px/24px * 2, only top (Use padding instead of margin to maintain proximity with paragwithph) */
+  a{
+    border:none;
+  }
 }
 
 h3{
