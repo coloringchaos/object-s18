@@ -29,14 +29,14 @@ Introductions, Expectations, Fantasy Device
 
 <br>
 
-<span class="ass">**Thursday, January 18rd**</span> <br>
+<span class="ass">**Thursday, January 18th**</span> <br>
 Basic Electronics, Identifying Components, Paper Circuits, Documenting & Photographing Hardware
 
 
-
++ Read pages 1-40 of *There are No Electrons: Electronics for Earthlings* (access pdf through Canvas)
 + Watch Schematics Videos - [Intro](https://vimeo.com/90280008), [Basic Symbols](https://vimeo.com/90286527), and [Review](https://vimeo.com/90534363)
-+ Read pages 1-40 of *There are No Electrons: Electronics for Earthlings* (access pdf through D2L)
 + Watch [Ohm's Law Part 1](https://vimeo.com/album/2801639/video/76442432) and [Part 2](https://vimeo.com/album/2801639/video/76442431)
+
 
 <br>
 <hr>
@@ -136,7 +136,7 @@ Fritzing, Schematics, Work Time
 
 <br>
 
-<span class="ass">**Tuesday, March 8th**</span> <br>
+<span class="ass">**Thursday, March 8th**</span> <br>
 <span class="proj">***Project 1***</span>
 
 <br>
@@ -195,7 +195,7 @@ Design Discussion
 
 <br>
 
-<span class="ass">**Tuesday, April 12th**</span> <br>
+<span class="ass">**Thursday, April 12th**</span> <br>
 Networking, Wireless Communication
 
 <br>
@@ -208,7 +208,7 @@ Networking, Wireless Communication
 
 <br>
 
-<span class="ass">**Tuesday, April 19th**</span> <br>
+<span class="ass">**Thursday, April 19th**</span> <br>
 Topics Based on Student Interest
 
 <br>
@@ -222,7 +222,7 @@ User Testing<br>
 
 <br>
 
-<span class="ass">**Tuesday, April 24th**</span> <br>
+<span class="ass">**Thursday, April 24th**</span> <br>
 Work Time
 
 <br>
@@ -235,7 +235,7 @@ Work Time
 
 <br>
 
-<span class="ass">**Tuesday, May 3rd**</span> <br>
+<span class="ass">**Thursday, May 3rd**</span> <br>
 <span class="proj">***Project 2***</span>
 
 <br>
