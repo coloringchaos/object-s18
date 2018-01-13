@@ -58,7 +58,7 @@ BTU Orientation, Series and Parallel Circuits, Switches, Electricity, Ohm’s La
 <br>
 
 <span class="ass">**Thursday, January 25th**</span> <br>
-BTU Lab Orientation, Feedback Loops, Design Discussion
+BTU Lab Orientation, Interactivity, Feedback Loops, Design Discussion
 
 
 <br>
@@ -66,13 +66,13 @@ BTU Lab Orientation, Feedback Loops, Design Discussion
 
 ## Week 3
 <span class="ass">**Tuesday, January 30th**</span> <br>
-Interactivity, Feedback Loops, Design Discussion, Enclosures
+Intro to Microcontrollers, Digital Input / Output
 <br><span class="lab">***[Lab 1](/object-s18/lab1)***</span>
 
 <br>
 
 <span class="ass">**Thursday, February 1st**</span> <br>
-Intro to Microcontrollers, Digital Input / Output
+Microcontrollers, Enclosures
 
 <br>
 <hr>
