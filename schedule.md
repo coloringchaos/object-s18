@@ -59,7 +59,7 @@ BTU Orientation, Series and Parallel Circuits, Switches, Electricity, Ohm’s La
 <br>
 
 <span class="ass">**Thursday, January 25th**</span> <br>
-BTU Lab Orientation, Interactivity, Feedback Loops, Design Discussion
+Interactivity, Feedback Loops, Design Discussion
 
 <span class="fornext">For Next Class:</span>
 
