@@ -17,7 +17,7 @@ This page has a breakdown of the general content that we will cover in each clas
 
 ## Week 1
 <span class="ass">**Tuesday, January 16th**</span> <br>
-Introductions, Expectations, [Documentation](/object-s18/blogs), Fantasy Device
+Introductions, Expectations, [Documentation](/object-s18/blog/), Fantasy Device
 
 <span class="fornext">For Next Class:</span>
 

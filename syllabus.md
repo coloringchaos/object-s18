@@ -46,7 +46,7 @@ This is an extremely participatory course. You are expected to participate in di
 
 Critiques are especially important in this course. ***Even if your project is not fully completed, it is absolutely required that you come to class to give feedback on your classmate's projects***. It will affect your grade negatively if you do not show up for critique. Work is expected to be completed prior to the critique, do not attempt to finish your project during critique, have everything you need prepared, tested and ready to present. Student computers will be shut off and full participation is expected when projects are being presented.
 
-**10% of your final semester grade is based on participation**. If you consistently come to class prepared, you are guaranteed to receive a C in this category. Full credit for Participation is reserved for those who go far above and beyond.
+<!-- **10% of your final semester grade is based on participation**. If you consistently come to class prepared, you are guaranteed to receive a C in this category. Full credit for Participation is reserved for those who go far above and beyond. -->
 
 ## Grading
 
