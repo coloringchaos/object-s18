@@ -17,7 +17,7 @@ This page has a breakdown of the general content that we will cover in each clas
 
 ## Week 1
 <span class="ass">**Tuesday, January 16th**</span> <br>
-Introductions, Expectations, Fantasy Device
+Introductions, Expectations, [Documentation](/object-s18/blogs), Fantasy Device
 
 <span class="fornext">For Next Class:</span>
 
@@ -201,7 +201,7 @@ More Motors
 
 ## Week 13
 <span class="ass">**Tuesday, April 10th**</span> <br>
-Design Discussion
+Wireless Communication, IoT
 <br><span class="lab">***Lab 5***</span>
 
 <br>
