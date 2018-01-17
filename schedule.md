@@ -37,6 +37,7 @@ Basic Electronics, Identifying Components, Paper Circuits, Documenting & Photogr
 + Read pages 1-40 of *There are No Electrons: Electronics for Earthlings* (access pdf through Canvas)
 + Watch Schematics Videos - [Intro](https://vimeo.com/90280008), [Basic Symbols](https://vimeo.com/90286527), and [Review](https://vimeo.com/90534363)
 + Watch [Ohm's Law Part 1](https://vimeo.com/album/2801639/video/76442432) and [Part 2](https://vimeo.com/album/2801639/video/76442431)
++ Read [Alternating Current vs. Direct Current](https://learn.sparkfun.com/tutorials/alternating-current-ac-vs-direct-current-dc)
 
 
 <br>
@@ -45,7 +46,7 @@ Basic Electronics, Identifying Components, Paper Circuits, Documenting & Photogr
 
 ## Week 2
 <span class="ass">**Tuesday, January 23rd**</span> <br>
-Electricity, Ohm’s Law, AC/DC Power, Series and Parallel Circuits, Switches
+Electricity, Ohm’s Law, AC vs. DC, Series and Parallel Circuits, Switches
 
 <span class="fornext">For Next Class:</span>
 
