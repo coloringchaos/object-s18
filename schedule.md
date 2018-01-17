@@ -45,21 +45,19 @@ Basic Electronics, Identifying Components, Paper Circuits, Documenting & Photogr
 
 ## Week 2
 <span class="ass">**Tuesday, January 23rd**</span> <br>
-BTU Orientation, Series and Parallel Circuits, Switches, Electricity, Ohm’s Law, Using a Multimeter
+Electricity, Ohm’s Law, AC/DC Power, Series and Parallel Circuits, Switches
 
 <span class="fornext">For Next Class:</span>
 
-+ Submit your [BTU Lab Membership Information](https://docs.google.com/forms/d/e/1FAIpQLSeIiB_mNSUKWU5yj4QyRlgOcB7TDBcx94uzNbGgb3J-fAJZeA/viewform?usp=sf_link)
+<!-- + Submit your [BTU Lab Membership Information](https://docs.google.com/forms/d/e/1FAIpQLSeIiB_mNSUKWU5yj4QyRlgOcB7TDBcx94uzNbGgb3J-fAJZeA/viewform?usp=sf_link) -->
 + Read Chapter 1 of [The Design of Everyday Things](http://object.ariellehein.com/readings/DesignOfEveryDayThings.pdf) by Don Norman
-+ Read Tom Igoe on [Physical Computing's Greatest Hits and Misses](http://www.tigoe.net/blog/category/physicalcomputing/176/)
 + Read Chris Crawford's [What Exactly Is Interactivity](http://object.ariellehein.com/readings/theartofinteractivedesign-ch1.pdf)
 + Watch [3 Ways Good Design Makes You Happy](https://www.ted.com/talks/don_norman_on_design_and_emotion?language=en)
-
 
 <br>
 
 <span class="ass">**Thursday, January 25th**</span> <br>
-Interactivity, Feedback Loops, Design Discussion
+BTU Orientation, Interactivity, Feedback Loops, Design Discussion
 
 <span class="fornext">For Next Class:</span>
 
@@ -98,6 +96,7 @@ Soldering, Protoboards, Sewable Electronics, Digital Fabrication, Work Time
 <span class="ass">**Thursday, February 8th**</span> <br>
 Laser Cutting, Work Time
 
+<!-- + Read Tom Igoe on [Physical Computing's Greatest Hits and Misses](http://www.tigoe.net/blog/category/physicalcomputing/176/) -->
 <br>
 <hr>
 
