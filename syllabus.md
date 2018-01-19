@@ -9,7 +9,7 @@ description: Course information for Object, Spring 2018.
 #### Tuesday & Thursday 12:30-2:20pm <br>Section 010/011
 **Instructor:**&nbsp; Arielle Hein<br>
 **Email:**&nbsp; arielle.hein@colorado.edu<br>
-**Office Hours:**&nbsp; Tuesdays 2:30-4:30pm or [by appointment]()<br>
+**Office Hours:**&nbsp; Thursday 2:30-4pm or [by appointment]()<br>
 **Office:**&nbsp; ATLS 231C
 
 #### Tuesday & Thursday 3:30-5:20pm <br>Section 020/021
