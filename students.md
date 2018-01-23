@@ -16,7 +16,7 @@ description:
 [Kelly Welch](https://thatambitiouswoman.wordpress.com/)<br>
 [Juliet Luna](julietscreations.wordpress.com)<br>
 [Camila Friedman-Gerlicz](https://camilafgblog.wordpress.com/)<br>
-[Laney Winkle](http://creative.colorado.edu/~dewi8962/web/Object/object.html)<br>
+[Laney Winkle](https://holyhotpotatoes.wordpress.com/)<br>
 [Minh Nguyen](https://atls3519s18ming.wordpress.com/)<br>
 [Lauren Hampton](https://laurenhamptonblog.wordpress.com/)<br>
 [Emily Lonn](https://emilylonn339105444.wordpress.com/)<br>
