@@ -39,7 +39,7 @@ description:
 [Amanda Batchelor](https://www.pinkthunderdesign.com/blog/)<br>
 [Armon Naeini](https://arna0935.wixsite.com/mysite/object)<br>
 [Nick Robert](https://robertatlas3100.wordpress.com/category/object/)<br>
-[Zelika Anchipolovskaya](https://zelikaobject2018.wordpress.com/)<br>
+[Zelika Anchipolovskaya](https://zelikabloging.wordpress.com/)<br>
 [Yue Liu](https://yuesweb.wordpress.com/object/)<br>
 [Jack Solomon](https://jacksonsolomon.wixsite.com/blog)<br>
 [Lisa Pope](https://atlasobject.wordpress.com/)<br>
