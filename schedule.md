@@ -82,7 +82,7 @@ Intro to Microcontrollers, Arduino IDE, Digital Input / Output
 <br>
 
 <span class="ass">**Thursday, February 1st**</span> <br>
-Microcontrollers, Programming for Arduino, Enclosures
+Microcontrollers, Programming for Arduino, Laser Cut Enclosures, Introduce Project 1
 
 <br>
 <hr>
@@ -90,7 +90,7 @@ Microcontrollers, Programming for Arduino, Enclosures
 ## Week 4
 
 <span class="ass">**Tuesday, February 6th**</span> <br>
-Soldering, Protoboards, Sewable Electronics, Digital Fabrication, Work Time
+Sewable Electronics, Digital Fabrication, Work Time
 
 <br>
 
