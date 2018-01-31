@@ -105,12 +105,12 @@ Laser Cutting, Work Time
 <span class="ass">**Tuesday, February 13th**</span><br>
 Project 1 Discussion, Brainstorming Activity, Blog Critique
 <br><span class="lab">***[Lab 2](/object-s18/lab2)***</span>
+<br><span class="proj">***[Project 1 Proposal](/object-s18/project1)***</span>
 
 <br>
 
 <span class="ass">**Thursday, February 15th**</span> <br>
 Analog Input, Sensors, Variable Resistors, Serial Monitor
-<br><span class="proj">***Project 1 Proposal***</span>
 
 <br>
 <hr>
@@ -136,7 +136,7 @@ Review, Making Sound, Project Planning<br>
 
 <span class="ass">**Thursday, March 1st**</span> <br>
 User Testing, Work Time <br>
-<span class="proj">***P1 Playtesting***</span>
+<span class="proj">***[P1 Playtesting](/object-s18/project1)***</span>
 
 <br>
 <hr>
@@ -148,7 +148,7 @@ Fritzing, Schematics, Work Time
 <br>
 
 <span class="ass">**Thursday, March 8th**</span> <br>
-<span class="proj">***Project 1***</span>
+<span class="proj">***[Project 1](/object-s18/project1)***</span>
 
 <br>
 <hr>
