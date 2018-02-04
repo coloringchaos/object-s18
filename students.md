@@ -14,7 +14,7 @@ description:
 [Fletcher Friday](https://fletcherfriday.wordpress.com)<br>
 [Grace Wilson](https://agracewilson.wordpress.com/)<br>
 [Kelly Welch](https://thatambitiouswoman.wordpress.com/)<br>
-[Juliet Luna](julietscreations.wordpress.com)<br>
+[Juliet Luna](https://julietscreations.wordpress.com)<br>
 [Camila Friedman-Gerlicz](https://camilafgblog.wordpress.com/)<br>
 [Laney Winkle](https://holyhotpotatoes.wordpress.com/)<br>
 [Minh Nguyen](https://atls3519s18ming.wordpress.com/)<br>
