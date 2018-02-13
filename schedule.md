@@ -97,33 +97,40 @@ Sewable Electronics, Digital Fabrication, Work Time
 <span class="ass">**Thursday, February 8th**</span> <br>
 Laser Cutting, Work Time
 
-<!-- + Read Tom Igoe on [Physical Computing's Greatest Hits and Misses](http://www.tigoe.net/blog/category/physicalcomputing/176/) -->
 <br>
 <hr>
 
 ## Week 5
 <span class="ass">**Tuesday, February 13th**</span><br>
-Project 1 Discussion, Blog Critique, Analog Input, Serial Monitor
+Project 1 Discussion, Blog Critique, Analog Input, Variable Resistors, Serial Monitor
 <br><span class="lab">***[Lab 2](/object-s18/lab2)***</span>
 <br><span class="proj">***[Project 1 Proposal](/object-s18/project1)***</span>
+
+<span class="fornext">For Next Class:</span>
+
++ Read [Analog vs. Digital](https://learn.sparkfun.com/tutorials/analog-vs-digital)
++ Read [Sensors: The Basics](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
++ Watch [Sensors 1](https://vimeo.com/102042976) and [Sensors 2](https://vimeo.com/102044250)
++ Read [Pulse-width Modulation](https://learn.sparkfun.com/tutorials/pulse-width-modulation)
+
 
 <br>
 
 <span class="ass">**Thursday, February 15th**</span> <br>
-Analog Input, Sensors, Variable Resistors, Analog Output, PWM vs. Frequency Modulation
+Analog Input, Sensors, Analog Output, PWM vs. Frequency Modulation
 
 <br>
 <hr>
 
 ## Week 6
 <span class="ass">**Tuesday, February 20th**</span> <br>
-Project Planning, Analog In/Out
+Analog In/Out, Sensors
 
 <br>
 
 <span class="ass">**Thursday, February 22nd**</span> <br>
-Review, Making Sound, <br>
-<span class="lab">***Lab 3***</span>
+Review, Making Sounds, Project Check-in <br>
+<span class="lab">***[Lab 3](/object-s18/lab3)***</span>
 
 <br>
 <hr>
