@@ -103,26 +103,26 @@ Laser Cutting, Work Time
 
 ## Week 5
 <span class="ass">**Tuesday, February 13th**</span><br>
-Project 1 Discussion, Brainstorming Activity, Blog Critique
+Project 1 Discussion, Blog Critique, Analog Input, Serial Monitor
 <br><span class="lab">***[Lab 2](/object-s18/lab2)***</span>
 <br><span class="proj">***[Project 1 Proposal](/object-s18/project1)***</span>
 
 <br>
 
 <span class="ass">**Thursday, February 15th**</span> <br>
-Analog Input, Sensors, Variable Resistors, Serial Monitor
+Analog Input, Sensors, Variable Resistors, Analog Output, PWM vs. Frequency Modulation
 
 <br>
 <hr>
 
 ## Week 6
 <span class="ass">**Tuesday, February 20th**</span> <br>
-Analog Output, PWM vs. Frequency Modulation
+Project Planning, Analog In/Out
 
 <br>
 
 <span class="ass">**Thursday, February 22nd**</span> <br>
-Review, Making Sound, Project Planning<br>
+Review, Making Sound, <br>
 <span class="lab">***Lab 3***</span>
 
 <br>
