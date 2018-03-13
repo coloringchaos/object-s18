@@ -162,12 +162,18 @@ Fritzing, Schematics, Work Time
 
 ## Week 9
 <span class="ass">**Tuesday, March 13th**</span> <br>
-Project 2 Discussion, Introduction to Serial Communication
+Introduction to Serial Communication
+
+<span class="fornext">For Next Class:</span>
+
++ Watch [Analyzer & ASCII](https://vimeo.com/97519477)
++ Watch [DIY Serial Protocol](https://vimeo.com/97519477)
+
 
 <br>
 
 <span class="ass">**Thursday, March 15th**</span> <br>
-Serial Communication with P5JS
+Serial Communication with P5JS, Project 2 Discussion
 
 <br>
 <hr>
@@ -180,7 +186,7 @@ Serial Communication with P5JS
 
 <span class="ass">**Thursday, March 22nd**</span> <br>
 Open Source Hardware, Design Discussion, Project 2 Workshopping<br>
-<span class="lab">***Lab 4***</span>
+<span class="lab">***[Lab 4](/object-s18/lab4)***</span>
 
 <br>
 <hr>
