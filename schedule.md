@@ -174,12 +174,12 @@ Project 2 Discussion, Serial Communication with P5JS
 
 ## Week 10
 <span class="ass">**Tuesday, March 20th**</span> <br>
-Serial Communication with P5JS
+Serial Communication with P5JS, Introduce Project 2
 
 <br>
 
 <span class="ass">**Thursday, March 22nd**</span> <br>
-Open Source Hardware, Design Discussion, Project 2 Workshopping<br>
+Open Source Hardware, Design Discussion<br>
 <span class="lab">***Lab 4***</span>
 
 <br>
@@ -258,6 +258,3 @@ Work Time
 
 <br>
 <hr>
-
-
-<!-- ## Finals Week -->
