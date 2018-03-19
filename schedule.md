@@ -179,7 +179,7 @@ Serial Communication with P5JS, Introduce Project 2
 <br>
 
 <span class="ass">**Thursday, March 22nd**</span> <br>
-Open Source Hardware, Design Discussion<br>
+Open Source Hardware, Prototyping and Design Discussion<br>
 <span class="lab">***Lab 4***</span>
 
 <br>
