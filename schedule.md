@@ -180,7 +180,7 @@ Serial Communication with P5JS, Introduce Project 2
 
 <span class="ass">**Thursday, March 22nd**</span> <br>
 Open Source Hardware, Prototyping and Design Discussion<br>
-<span class="lab">***Lab 4***</span>
+<span class="lab">***[Lab 4](/object-s18/lab4)***</span>
 
 <br>
 <hr>
