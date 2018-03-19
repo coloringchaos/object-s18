@@ -143,7 +143,7 @@ Review, Making Sounds, Project Check-in <br>
 
 <span class="ass">**Thursday, March 1st**</span> <br>
 User Testing, Work Time <br>
-<span class="proj">***[P1 Playtesting](/object-s18/project1)***</span>
+<span class="proj">***[P1 Playtesting](/object-s18/project2)***</span>
 
 <br>
 <hr>
@@ -155,7 +155,7 @@ Fritzing, Schematics, Work Time
 <br>
 
 <span class="ass">**Thursday, March 8th**</span> <br>
-<span class="proj">***[Project 1](/object-s18/project1)***</span>
+<span class="proj">***[Project 1](/object-s18/project2)***</span>
 
 <br>
 <hr>
@@ -164,16 +164,10 @@ Fritzing, Schematics, Work Time
 <span class="ass">**Tuesday, March 13th**</span> <br>
 Introduction to Serial Communication
 
-<span class="fornext">For Next Class:</span>
-
-+ Watch [Analyzer & ASCII](https://vimeo.com/97519477)
-+ Watch [DIY Serial Protocol](https://vimeo.com/97519477)
-
-
 <br>
 
 <span class="ass">**Thursday, March 15th**</span> <br>
-Serial Communication with P5JS, Project 2 Discussion
+Project 2 Discussion, Serial Communication with P5JS
 
 <br>
 <hr>
@@ -186,7 +180,7 @@ Serial Communication with P5JS
 
 <span class="ass">**Thursday, March 22nd**</span> <br>
 Open Source Hardware, Design Discussion, Project 2 Workshopping<br>
-<span class="lab">***[Lab 4](/object-s18/lab4)***</span>
+<span class="lab">***Lab 4***</span>
 
 <br>
 <hr>
@@ -201,7 +195,7 @@ Open Source Hardware, Design Discussion, Project 2 Workshopping<br>
 ## Week 12
 <span class="ass">**Tuesday, April 3rd**</span> <br>
 Stepper Motors, H-Bridge, Transistors<br>
-<span class="proj">***Project 2 Proposal***</span>
+<span class="proj">***[Project 2 Proposal](/object-s18/project2)***</span>
 
 <br>
 
@@ -242,7 +236,7 @@ Topics Based on Student Interest
 ## Week 15
 <span class="ass">**Tuesday, April 24th**</span> <br>
 User Testing<br>
-<span class="proj">***P2 Playtesting***</span>
+<span class="proj">***[P2 Playtesting](/object-s18/project2)***</span>
 
 <br>
 
@@ -260,10 +254,10 @@ Work Time
 <br>
 
 <span class="ass">**Thursday, May 3rd**</span> <br>
-<span class="proj">***Project 2***</span>
+<span class="proj">***[Project 2](/object-s18/project2)***</span>
 
 <br>
 <hr>
 
 
-## Finals Week
+<!-- ## Finals Week -->
