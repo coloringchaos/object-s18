@@ -199,9 +199,9 @@ Review project proposals, Introduction to Motors<br>
 
 <br>
 
-<span class="ass">**Tuesday, April 5th**</span> <br>
+<span class="ass">**Thursday, April 5th**</span> <br>
 [SPARKFUN CLASS TOUR](https://www.google.com/maps/place/SparkFun+Electronics/@40.0905756,-105.1870247,17z/data=!3m1!4b1!4m5!3m4!1s0x876bf1d19e47af97:0x32d9afade8780ee5!8m2!3d40.0905756!4d-105.184836?hl=en) <br>
-Arielle's class @ 1pm, Melissa's class @ 4pm
+Arielle's class @ 1pm, Melissa's class @ 3:45pm
 <br>*If you have a schedule conflict, please discuss this with your instructor*
 
 <br>
@@ -210,7 +210,7 @@ Arielle's class @ 1pm, Melissa's class @ 4pm
 
 ## Week 13
 <span class="ass">**Tuesday, April 10th**</span> <br>
-Relays, Transistors, Paper Mechatronics
+High Current Loads, Relays, Transistors, Paper Mechatronics
 
 
 <br>
