@@ -194,13 +194,15 @@ Open Source Hardware, Prototyping and Design Discussion<br>
 
 ## Week 12
 <span class="ass">**Tuesday, April 3rd**</span> <br>
-Stepper Motors, H-Bridge, Transistors<br>
+Review project proposals, Introduction to Motors<br>
 <span class="proj">***[Project 2 Proposal](/object-s18/project2)***</span>
 
 <br>
 
 <span class="ass">**Tuesday, April 5th**</span> <br>
-More Motors
+[SPARKFUN CLASS TOUR](https://www.google.com/maps/place/SparkFun+Electronics/@40.0905756,-105.1870247,17z/data=!3m1!4b1!4m5!3m4!1s0x876bf1d19e47af97:0x32d9afade8780ee5!8m2!3d40.0905756!4d-105.184836?hl=en) <br>
+Arielle's class @ 1pm, Melissa's class @ 4pm
+<br>*If you have a schedule conflict, please discuss this with your instructor*
 
 <br>
 <hr>
@@ -208,13 +210,14 @@ More Motors
 
 ## Week 13
 <span class="ass">**Tuesday, April 10th**</span> <br>
-Wireless Communication, IoT
-<br><span class="lab">***Lab 5***</span>
+Relays, Transistors, Paper Mechatronics
+
 
 <br>
 
 <span class="ass">**Thursday, April 12th**</span> <br>
-Networking, Wireless Communication
+Wireless Communication, IoT, Networking
+<br><span class="lab">***[Lab 5](/object-s18/lab5)***</span>
 
 <br>
 <hr>
@@ -227,7 +230,7 @@ Networking, Wireless Communication
 <br>
 
 <span class="ass">**Thursday, April 19th**</span> <br>
-Topics Based on Student Interest
+DIY Arduino, Custom Circuit Design
 
 <br>
 <hr>
@@ -240,7 +243,7 @@ User Testing<br>
 
 <br>
 
-<span class="ass">**Thursday, April 24th**</span> <br>
+<span class="ass">**Thursday, April 26th**</span> <br>
 Work Time
 
 <br>
