@@ -210,7 +210,7 @@ Arielle's class @ 1pm, Melissa's class @ 3:45pm
 
 ## Week 13
 <span class="ass">**Tuesday, April 10th**</span> <br>
-High Current Loads, Relays, Transistors, Paper Mechatronics
+Transistors, Relays, High Current Loads, Mechanisms
 
 
 <br>
