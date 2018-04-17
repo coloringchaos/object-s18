@@ -254,10 +254,21 @@ Work Time
 <span class="ass">**Tuesday, May 1st**</span> <br>
 Work Time
 
-<br>
+<!-- <br> -->
+
+<span class="test">***[ATLAS EXPO Wednesday, May 2nd  5-6:30pm](https://www.colorado.edu/atlas/expo2018)***</span>
+
+<!-- <br> -->
 
 <span class="ass">**Thursday, May 3rd**</span> <br>
 <span class="proj">***[Project 2](/object-s18/project2)***</span>
 
 <br>
+
 <hr>
+
+
+## Finals Week
+
+<span class="ass">**Monday, May 7th** (by end of day)</span> <br>
+<span class="proj">***[Project 2 Documentation](/object-s18/project2)***</span>
